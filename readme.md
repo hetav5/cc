@@ -14,3 +14,13 @@ cloudsim 3.0.3
 https://github.com/cloudslab/cloudsim/releases
 
 eclipse download
+
+CloudSim-FCFS/
+│── lib/
+│   ├── cloudsim-3.0.3.jar
+│   ├── commons-math-2.1.jar
+│   └── commons-lang-2.4.jar
+│── src/
+│   └── mycloudsim/
+│       └── FCFSExample.java
+│── README.md
