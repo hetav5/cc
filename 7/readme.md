@@ -37,5 +37,5 @@ javac -cp lib/cloudsim-3.0.3.jar -d out src/mycloudsim/PriorityExample.java
 
 ### 6. Run the Simulation
 ```bash
-java -cp lib/cloudsim-3.0.3.jar:out mycloudsim.PriorityExample
+java -cp "lib\cloudsim-3.0.3.jar;out" mycloudsim.PriorityExample
 ```
